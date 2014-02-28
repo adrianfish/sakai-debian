@@ -1,0 +1,4 @@
+components /opt/sakai-tomcat
+webapps/*  /opt/sakai-tomcat/webapps
+shared/lib /opt/sakai-tomcat/shared
+common/lib /opt/sakai-tomcat/common
